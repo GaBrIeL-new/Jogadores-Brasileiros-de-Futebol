@@ -1,4 +1,4 @@
-## **⚽ Busca Rápida de Craques Brasileiros ⚽** -Imersão DEV com o Google Gemini
+## **⚽ Busca Rápida de Craques Brasileiros ⚽**
 
 **Descubra tudo sobre seus ídolos do futebol brasileiro!** 🇧🇷
 
@@ -33,3 +33,21 @@ Todo mundo é bem-vindo para ajudar a melhorar essa aplicação! Se você sabe u
 
 **Vamos juntos construir a maior base de dados de jogadores brasileiros!** 🇧🇷
 
+**Observações:**
+
+* **Substitua "[https://github.com/seu-usuario/sua-aplicacao.git](https://github.com/seu-usuario/sua-aplicacao.git)" pelo link do seu repositório.**
+* **Adicione mais detalhes sobre a base de dados utilizada, se houver alguma API envolvida, etc.**
+* **Se quiser, você pode adicionar imagens ou GIFs para deixar o README mais visualmente atraente.**
+* **Crie uma seção "Contribuindo" com mais detalhes sobre como contribuir para o projeto.**
+
+## **Contribuindo**
+
+Quer ajudar a melhorar esse projeto? Siga estes passos:
+
+1. **Fork o repositório:** Crie uma cópia do repositório em sua conta.
+2. **Crie um novo branch:** Crie um novo branch para suas alterações.
+3. **Faça suas alterações:** Edite os arquivos e adicione suas novas funcionalidades.
+4. **Commit suas alterações:** Faça commit das suas alterações com mensagens claras e concisas.
+5. **Faça um pull request:** Envie um pull request para o repositório original.
+
+**Agradecemos sua contribuição!**
